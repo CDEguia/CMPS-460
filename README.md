@@ -1,13 +1,13 @@
 # CMPS-460
 <html>
-<head> <title>Polyphase Sort/Merge using Perfect Fibonacci Sequence</title></head>
+<head> <title>Polyphase Sort/Merge using Perfect Fibonacci Distribution</title></head>
 <body>
  
  <h1>Polyphase Sort/Merge</h1>
-  <p>Data is moved from the large file into two (min 3 when using PFS) external drives</p>
+  <p>Data is moved from the large file into two (min 3 when using PFD) external drives</p>
  
- <h2>Perfect Fibonacci Sequence</h2>
-  <p>Finding the PFS</p>
+ <h2>Perfect Fibonacci Distribution PFD</h2>
+  <p>Finding the PFD</p>
   <p>The following Fibonacci numbers of order 3 are found by adding the 3 previous numbers together.</p>
   <table>
   <tr>
