@@ -87,8 +87,8 @@ int main(){
 		LLQUE TempSet; TempSet.Clearllque(); TempSet.Pushllque(0);
 
 		//	Create Menu
-		cout << "\t------- PDF Menu -------\n";
-		cout << "\tEnter the file size: "; cin >> Size;
+		cout << "\t-------------- PDF Menu --------------\n";
+		cout << "\tEnter the number of items to sort: "; cin >> Size;
 		cout << "\t\tPFD of order: "; cin >> PDF; PDF++;
 
 		//		Create and save the Perfect Fibinachi Distribution
